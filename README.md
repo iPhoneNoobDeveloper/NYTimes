@@ -1,2 +1,3 @@
 # NYTimes
-This project is useful for showing most popular feed of  New York Times.
+
+This readme.md file aims to illuminate in detail the steps required to MostPopular feed of New York Times. 
