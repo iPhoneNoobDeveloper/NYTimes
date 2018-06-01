@@ -7,4 +7,3 @@ that shows details when items on the list are tapped (a typical master/detail ap
 
 API key has generated through the signup of https://www.nytimes.com/. Implemented MostViewed API using dataTaskWithRequest method in NYTimesMappConnectionManager class. 
 
-![Uploading Simulator Screen Shot - iPhone 8 Plus - 2018-06-01 at 17.50.36.png…]()
